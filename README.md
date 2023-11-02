@@ -73,5 +73,5 @@ The application uses a PostgreSQL database. You can configure the database conne
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions and improvements.
 ## Screenshots
-![App Screenshot 1](Screenshot%20(178).png)
+![App Screenshot 1](ExpenseItem-Web-Application\Screenshot%20(178).png)
 
